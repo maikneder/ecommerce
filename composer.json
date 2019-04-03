@@ -1,5 +1,5 @@
 {
-    "name": "maikneder/ecommerce",
+    "name": "hcodebr/ecommerce",
     "authors": [
         {
             "name": "Maik Neder",
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "": "vendor\\maikneder\\php-classes\\src"
+            "Hcode\\": "vendor\\hcodebr\\php-classes\\src"
         }
     }
 }
